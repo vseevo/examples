@@ -31,7 +31,7 @@ https://collector.weekendagency.ru/api/account/test
 Int32|String|String|Int32|Int32
 
 
-1.ID Локально внутри итогового массива
+1.ID index внутри итогового массива
 2.Address
 3.Cash
 4.Money
